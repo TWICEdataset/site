@@ -28,6 +28,7 @@ GEM
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     google-protobuf (3.23.4-arm64-darwin)
+    google-protobuf (3.23.4-x86_64-linux)
     html-pipeline (2.14.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
@@ -75,6 +76,8 @@ GEM
     minitest (5.19.0)
     nokogiri (1.15.3-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.15.3-x86_64-linux)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.3)
@@ -86,8 +89,9 @@ GEM
     rexml (3.2.6)
     rouge (4.1.3)
     safe_yaml (1.0.5)
-    sass-embedded (1.64.2-arm64-darwin)
+    sass-embedded (1.63.3)
       google-protobuf (~> 3.23)
+      rake (>= 10.0.0)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     tzinfo (2.0.6)
@@ -97,6 +101,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   bundler
@@ -104,4 +109,4 @@ DEPENDENCIES
   rake (~> 10.0)
 
 BUNDLED WITH
-   2.4.10
+   2.4.21
