@@ -14,9 +14,10 @@ aside:
   toc: true
 ---
 
-Download page with links and citation to article
+Small Subset 449 MB (zip) / 4 GB (after unzip): [TWICE_subset.zip](https://twice.eletrica.ufpr.br/TWICEsubset.zip)
 
-(coming soon)
+Complete dataset 89 GB (zip) / 261 GB (after unzip):
 
-subset1
-fullset
+Test scripts: [github.com/TWICEdataset/scripts](https://github.com/TWICEdataset/scripts)
+
+
