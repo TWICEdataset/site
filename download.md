@@ -20,4 +20,4 @@ Complete dataset 89 GB (zip) / 261 GB (after unzip):
 
 Test scripts: [github.com/TWICEdataset/scripts](https://github.com/TWICEdataset/scripts)
 
-
+Contact: [twice@eletrica.ufpr.br](mailto:twice@eletrica.ufpr.br)
