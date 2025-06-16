@@ -173,7 +173,8 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : "G-LMGTHTWL9E"  # Google Analytics id for the site
+    #tracking_id : "G-LMGTHTWL9E"  # Google Analytics id for twice.github
+    tracking_id : "G-ELGM4X0V0C"  # Google Analytics id for twice.eletrica
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
